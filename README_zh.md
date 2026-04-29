@@ -1,5 +1,7 @@
 [![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)
 
+[English](README.md)
+
 ## 从零构建你自己的 &lt;在这里填写技术名称&gt;
 
 这个仓库汇集了一系列优质的、循序渐进的教程，帮助你从零开始重新实现各种经典技术。
